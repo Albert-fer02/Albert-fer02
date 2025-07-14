@@ -8,14 +8,6 @@
 
 ### 🚀 **Digital Architect** | 🛡️ **Security Sentinel** | 🎨 **Code Artist** | 🎵 **Beat Creator**
 
-*"Where Security Meets Finance, Where Art Meets Technology"*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albertagurto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Albert's GitHub Stats" />
-</p>
-
-</div>
-
 ---
 
 <div align="center">
@@ -73,65 +65,6 @@
 
 ---
 
-<div align="center">
-
-## 🔥 **Featured Projects**
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🏆 **ACCOUNTINGS PRO**
-*Revolutionary SaaS Platform*
-
-<img src="https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Stage-MVP-blue?style=for-the-badge" />
-
-**Tech Stack:**
-```javascript
-const stack = {
-  frontend: ['React 18', 'Tailwind CSS', 'Vite'],
-  backend: ['Node.js', 'Express', 'PostgreSQL'],
-  cloud: ['Firebase', 'Vercel'],
-  ai: ['OpenAI API', 'Custom Models']
-};
-```
-
-**Impact:** Targeting 10,000+ businesses
-
-</td>
-<td width="50%" align="center">
-
-### 🔐 **CyberLab Arsenal**
-*Security Toolkit Suite*
-
-<img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Tools-25+-red?style=for-the-badge" />
-
-**Specialties:**
-```bash
-#!/bin/bash
-tools=(
-  "Network Scanner"
-  "Vulnerability Analyzer"
-  "Payload Generator"
-  "System Hardening Scripts"
-)
-```
-
-**Achievement:** 500+ security tests conducted
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🛠️ **Technology Arsenal**
-
-<div align="center">
 
 ### 🔧 **Languages & Frameworks**
 <p>
@@ -161,26 +94,6 @@ tools=(
 ---
 
 <div align="center">
-
-## 📈 **GitHub Analytics**
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertagurto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=albertagurto&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=albertagurto&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph" />
-
-### 🏆 **GitHub Trophies**
-<img src="https://github-profile-trophy.vercel.app/?username=albertagurto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-
-</div>
 
 ---
 
@@ -434,15 +347,7 @@ tools=(
 
 <div align="center">
 
-```ascii
-╔═══════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                       ║
-║  🌟 "Code is Poetry, Security is Art, Music is Mathematics, Finance is Science"     ║
-║                                                                                       ║
-║                              - Albert Agurto Farfán                                  ║
-║                                                                                       ║
-╚═══════════════════════════════════════════════════════════════════════════════════════╝
-```
+
 
 **🚀 Ready to collaborate? Let's create something extraordinary together!**
 
