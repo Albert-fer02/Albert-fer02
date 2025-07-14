@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Albert Agurto Farfán!
 
-<!--
-**Albert-fer02/albert-fer02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring **Cybersecurity Engineer**, **Accountant**, and **Creative Technologist**.  
+I build tools that merge **security, finance, and creativity** — shaping the future with code, numbers, and art.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects & Focus
+
+- 🔐 **Cybersecurity & Ethical Hacking:** Passionate about **Red Team**, Linux hardening, and digital defense.
+- 📊 **Accounting Automation:** Building **Accountings Pro**, a SaaS to revolutionize accounting processes for businesses.
+- 🎨 **Creative Coding:** Exploring visual art, design, and music production through code.
+- 🎵 **Music & Beats:** Producer in my free time, working on unique beats and aspiring to be a DJ.
+
+---
+
+## 📚 Currently Learning
+
+- 📌 **React.js, Tailwind CSS** for modern web apps.
+- 📌 **Linux & Arch Hyperland:** Mastering customization, window managers, and system optimization.
+- 📌 **Python, Bash Scripting:** Automating systems, data processing, and ethical hacking.
+- 📌 **MySQL & Databases:** For robust data handling in my apps.
+
+---
+
+## 🤝 Let's Collaborate
+
+- 🎯 I'm open to collaborate on:
+  - Cybersecurity tools
+  - Accounting SaaS platforms
+  - Creative coding & generative art
+  - Music tech or AI-based creative tools
+
+---
+
+## 📫 Reach Me
+
+- 🌐 **Website/Portfolio (Soon)**
+- 💼 **LinkedIn:** [linkedin.com/in/albert-agurto](https://linkedin.com/in/albert-agurto) *(Actualiza si tienes uno)*
+- 📥 **Email:** agurto.farfan.albert@gmail.com
+- 🎵 **SoundCloud (Beats soon!)**
+
+---
+
+> *"Transform your passion into systems, your art into tools, and your knowledge into freedom."*
+
