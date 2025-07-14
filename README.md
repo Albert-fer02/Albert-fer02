@@ -36,7 +36,7 @@ I build tools that merge **security, finance, and creativity** — shaping the f
 ## 📫 Reach Me
 
 - 🌐 **Website/Portfolio (Soon)**
-- 💼 **LinkedIn:** [linkedin.com/in/albert-agurto](https://linkedin.com/in/albert-agurto) ##(Actualiza si tienes uno)
+- 💼 **LinkedIn:** [linkedin.com/in/albert-agurto](https://linkedin.com/in/albert-agurto) 
 - 📥 **Email:** agurtofarfanalbert@gmail.com
 
 ---
