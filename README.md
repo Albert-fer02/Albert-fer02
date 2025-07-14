@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Albert Agurto Farfán
+# 𓂀 𝓓𝓻𝓮𝓪𝓶𝓬𝓸𝓭𝓮𝓻08 𓂀
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer;Creative+Technologist;Financial+Innovator;Music+Producer" alt="Typing SVG" />
 
@@ -8,10 +8,10 @@
 
 ### 🚀 **Digital Architect** | 🛡️ **Security Sentinel** | 🎨 **Code Artist** | 🎵 **Beat Creator**
 
-*"Where Security Meets Finance, Art Meets Technology"*
+*"Where Security Meets Finance, Where Art Meets Technology"*
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=albertagurto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Albert's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=albertagurto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Albert's GitHub Stats" />
 </p>
 
 </div>
