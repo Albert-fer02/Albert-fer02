@@ -1,257 +1,143 @@
 <div align="center">
 
-<!-- Header with animated background -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=𝓓𝓻𝓮𝓪𝓶𝓬𝓸𝓭𝓮𝓻08&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
+# 𓂀 𝓓𝓻𝓮𝓪𝓶𝓬𝓸𝓭𝓮𝓻08 𓂀
 
-<!-- Animated typing effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=800&lines=🛡️+Cybersecurity+Engineer;💎+Fintech+Architect;🎨+Creative+Technologist;🎵+Music+Producer;⚡+Digital+Innovator" alt="Animated typing" />
-
-<br/>
-
-<!-- Badges with custom styling -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=flat-square&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Building-FinTech_SaaS-blue?style=flat-square&logo=trending-up&logoColor=white" />
-  <img src="https://img.shields.io/badge/Creating-Digital_Art-purple?style=flat-square&logo=palette&logoColor=white" />
-  <img src="https://img.shields.io/badge/Producing-Music-orange?style=flat-square&logo=music&logoColor=white" />
-</p>
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineer+%F0%9F%9B%A1%EF%B8%8F;Creative+Technologist+%F0%9F%8E%A8;Financial+Innovator+%F0%9F%92%8E;Music+Producer+%F0%9F%8E%B5" alt="Dynamic Typing" /> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:0080FF,100:8A2BE2&height=120&section=header&animation=fadeIn" />
 
 ---
 
-## 🚀 About Me
+### 🚀 **Digital Architect** • 🛡️ **Security Sentinel** • 🎨 **Code Artist** • 🎵 **Beat Creator**
 
-<table>
-<tr>
-<td width="60%">
-
-**Bridging Security, Finance & Creativity**
-
-I'm a multidisciplinary technologist passionate about creating secure, innovative solutions that don't just solve problems—they inspire possibilities. My work spans from penetration testing and red team operations to building next-generation FinTech platforms and producing cutting-edge music.
-
-**Currently:**
-- 🔐 Leading cybersecurity initiatives and red team operations
-- 💰 Building **Accountings Pro** - An AI-powered SaaS platform
-- 🎵 Producing electronic music with generative AI
-- 🌟 Exploring the intersection of technology and creativity
-
-</td>
-<td width="40%">
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=albertagurto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" width="100%" />
-</div>
-
-</td>
-</tr>
-</table>
+<img src="https://komarev.com/ghpvc/?username=albertagurto&label=Profile%20Views&color=00f5ff&style=for-the-badge" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/albertagurto?label=Followers&style=for-the-badge&color=00f5ff&logoColor=white" alt="Followers" />
 
 ---
 
-## ⚡ Expertise Matrix
+## 🎯 **The Trinity of Innovation**
 
-<div align="center">
+<div align="center"> <table> <tr> <td width="33%" align="center"> <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 
-<table>
-<tr>
-<th width="33%">
-<img src="https://img.shields.io/badge/🔐_CYBER_GUARDIAN-FF6B6B?style=for-the-badge&logoColor=white" />
-</th>
-<th width="33%">
-<img src="https://img.shields.io/badge/💎_FINTECH_ARCHITECT-4ECDC4?style=for-the-badge&logoColor=white" />
-</th>
-<th width="33%">
-<img src="https://img.shields.io/badge/🎨_CREATIVE_TECH-FFE66D?style=for-the-badge&logoColor=black" />
-</th>
-</tr>
-<tr>
-<td align="center">
+### 🔐 **CYBER GUARDIAN**
 
-<img src="https://skillicons.dev/icons?i=linux,kali,python,bash,docker" /><br/>
+<img src="https://img.shields.io/badge/Red_Team-DC143C?style=for-the-badge&logo=hackthebox&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" /> <img src="https://img.shields.io/badge/OSCP-FF6B35?style=for-the-badge&logo=offensive-security&logoColor=white" />
 
-**Security Arsenal:**
+**Arsenal:**
+
 - 🎯 Penetration Testing
-- 🔍 Vulnerability Research  
+- 🔍 Vulnerability Assessment
 - 🛡️ Digital Forensics
 - ⚡ Incident Response
-- 🚨 Threat Intelligence
+- 🔒 Threat Hunting
 
-</td>
-<td align="center">
+</td> <td width="33%" align="center"> <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,postgres,aws,typescript" /><br/>
+### 💎 **FINTECH ARCHITECT**
 
-**FinTech Stack:**
-- 📊 **Accountings Pro** SaaS
-- 💳 Payment Systems
-- 📈 Financial Analytics
-- 🤖 AI/ML Integration
-- 🏗️ Microservices Architecture
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
-</td>
-<td align="center">
+**Building:**
 
-<img src="https://skillicons.dev/icons?i=js,threejs,blender,ableton,figma" /><br/>
+- 📊 **AccountingsPro** SaaS
+- 💰 Financial Automation
+- 🤖 AI-powered Analytics
+- 🚀 Business Solutions
+- ⚡ Real-time Trading APIs
 
-**Creative Tools:**
+</td> <td width="33%" align="center"> <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+
+### 🎨 **CREATIVE TECHNOLOGIST**
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" /> <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
+
+**Creating:**
+
 - 🎵 Music Production
 - 🎨 Generative Art
-- 💫 3D Visualizations
-- 🎧 Audio Engineering
-- 🌈 Interactive Experiences
+- 💫 Interactive Visuals
+- 🎧 Audio Technology
+- 🌌 3D Experiences
 
-</td>
-</tr>
-</table>
+</td> </tr> </table> </div>
+
+---
+
+## 🌟 **Mission Statement**
+
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00F5FF,50:0080FF,100:8A2BE2&height=150&section=header&text=Bridging%20Digital%20Worlds&fontSize=28&fontColor=ffffff&animation=blinking" />
+
+### _"Where Security Meets Innovation, and Code Becomes Art"_
+
+> **My vision** is to create a digital ecosystem where cybersecurity, financial technology, and creative expression converge. I believe in building solutions that don't just protect and automate, but inspire and transform the way we interact with technology.
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800"> </div>
+
+---
+
+## 🔥 **Tech Arsenal**
+
+<div align="center">
+
+### 🛡️ **Security & Infrastructure**
+
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+### 💻 **Development & Frameworks**
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+### 🎵 **Creative & Audio**
+
+<img src="https://img.shields.io/badge/Ableton_Live-000000?style=for-the-badge&logo=abletonlive&logoColor=white" /> <img src="https://img.shields.io/badge/Max/MSP-525252?style=for-the-badge&logo=maxmsp&logoColor=white" /> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" /> </div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=albertagurto&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=00f5ff&icon_color=00f5ff&text_color=ffffff&title_color=00f5ff" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertagurto&theme=tokyonight&background=0d1117&border=00f5ff&stroke=00f5ff&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertagurto&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=00f5ff&text_color=ffffff&title_color=00f5ff" alt="Top Languages" /> </div>
+
+---
+
+## 🎵 **Latest Beats & Creations**
+
+<div align="center"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=albertagurto&count=3&unique=true" alt="Spotify Recently Played" width="400" />
+
+### 🔊 **Now Vibing To:**
+
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=00f5ff)](https://open.spotify.com/user/albertagurto)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📡 **Connect & Collaborate**
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=albertagurto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertagurto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+### 🌐 **Professional Networks**
 
-</div>
+<a href="https://linkedin.com/in/albertagurto" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/albertagurto" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://twitter.com/albertagurto" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /> </a> <a href="https://albertagurto.dev" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /> </a> <a href="https://medium.com/@albertagurto" target="_blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /> </a>
 
-<div align="center">
+### 🎵 **Creative Platforms**
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=albertagurto&theme=tokyonight&hide_border=true&background=0D1117" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=albertagurto&bg_color=0D1117&color=667eea&line=764ba2&point=c9d1d9&area=true&hide_border=true" width="49%" />
+<a href="https://soundcloud.com/albertagurto" target="_blank"> <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" /> </a> <a href="https://instagram.com/albertagurto" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="https://youtube.com/@albertagurto" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /> </a> <a href="https://twitch.tv/albertagurto" target="_blank"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /> </a> <a href="https://behance.net/albertagurto" target="_blank"> <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /> </a>
 
-</div>
+### 💬 **Let's Talk**
+
+<a href="mailto:albert.agurto@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://calendly.com/albertagurto" target="_blank"> <img src="https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule" /> </a> <a href="https://wa.me/1234567890" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /> </a> <a href="https://t.me/albertagurto" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> </a>
+
+### 🎮 **Gaming & Community**
+
+<a href="https://discord.gg/albertagurto" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /> </a> <a href="https://steamcommunity.com/id/albertagurto" target="_blank"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /> </a> <a href="https://reddit.com/u/albertagurto" target="_blank"> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /> </a> </div>
 
 ---
 
-## 🏆 Featured Projects
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:0080FF,100:8A2BE2&height=120&section=footer&animation=fadeIn" />
 
-<div align="center">
+### 🚀 **"Code is Poetry, Security is Art, Music is Life"**
 
-<table>
-<tr>
-<td width="50%">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%9C%A8;Let's+build+the+future+together+%F0%9F%9A%80;Stay+secure%2C+stay+creative+%F0%9F%94%90%F0%9F%8E%A8" alt="Footer Typing" />
 
-### 🔐 CyberSec Arsenal
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+_Last updated: July 2025 | Crafted with ❤️, ☕, and lots of 🎵_
 
-A comprehensive penetration testing toolkit with automated vulnerability scanning and reporting capabilities.
-
-**⭐ Key Features:**
-- 🎯 Multi-vector attack simulation
-- 📊 Interactive reporting dashboard  
-- 🔍 Zero-day detection algorithms
-
-</td>
-<td width="50%">
-
-### 💎 Accountings Pro
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white" />
-
-Next-generation FinTech SaaS platform with AI-powered financial insights and automated bookkeeping.
-
-**⭐ Key Features:**
-- 🤖 AI-driven expense categorization
-- 📈 Predictive financial modeling
-- ⚡ Real-time collaboration tools
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎵 SonicLab Studio
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/WebAudio-FF5722?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-9C27B0?style=flat-square&logo=brain&logoColor=white" />
-
-Web-based music production suite with AI-assisted composition and real-time collaboration features.
-
-**⭐ Key Features:**
-- 🎹 Browser-based DAW interface
-- 🤖 AI melody generation
-- 🌐 Cloud-based project sync
-
-</td>
-<td width="50%">
-
-### 🎨 GenArt Canvas
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
-<img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
-<img src="https://img.shields.io/badge/GLSL-5C2D91?style=flat-square&logo=opengl&logoColor=white" />
-
-Interactive generative art platform using procedural algorithms and real-time GPU rendering.
-
-**⭐ Key Features:**
-- 🌈 Real-time shader effects
-- 🎨 Procedural art generation
-- 💫 Interactive 3D environments
-
-</td>
-</tr>
-</table>
+![Snake animation](https://github.com/albertagurto/albertagurto/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
----
-
-## 🎯 Current Mission
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12&height=80&section=header" />
-
-### *"Creating technology that secures, empowers, and inspires"*
-
-**My philosophy:** Every line of code should serve a purpose beyond functionality—it should contribute to a more secure digital world, democratize financial tools, and unlock human creativity through technology.
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12&height=80&section=footer" />
-</div>
-
----
-
-## 🌐 Connect & Collaborate
-
-<div align="center">
-
-### Professional Networks
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/albertagurto)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://albertagurto.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/albertagurto)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/albertagurto)
-
-### Creative Platforms
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/albertagurto)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@albertagurto)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/albertagurto)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/albertagurto)
-
-### Direct Contact
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albert.agurto@example.com)
-[![Schedule Meeting](https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/albertagurto)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/albertagurto)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Philosophy
-
-*"At the intersection of security, finance, and creativity lies the future of human-centric technology"*
-
-**🔄 Last updated:** July 2025 | **⚡ Status:** Building the future, one commit at a time
-
-<img src="https://komarev.com/ghpvc/?username=albertagurto&color=667eea&style=flat-square&label=Profile+Views" />
-
-</div>
-
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
