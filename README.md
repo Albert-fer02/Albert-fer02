@@ -151,22 +151,32 @@
 
 ---
 
-  
-
-## 📊 **GitHub Analytics**
-
-  
+  ## 📊 **GitHub Analytics**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Albert-fer02&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=00f5ff&icon_color=00f5ff&text_color=ffffff&title_color=00f5ff" alt="GitHub Stats" />
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Albert-fer02&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=00f5ff&icon_color=00f5ff&text_color=ffffff&title_color=00f5ff" 
+    alt="Estadísticas de GitHub de Albert" 
+    width="48%" 
+  />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Albert-fer02&theme=tokyonight&background=0d1117&border=00f5ff&stroke=00f5ff&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff" alt="GitHub Streak" />
+  <!-- GitHub Streak -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Albert-fer02&theme=tokyonight&background=0d1117&border=00f5ff&stroke=00f5ff&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff" 
+    alt="Racha de contribuciones de Albert" 
+    width="48%" 
+  />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-fer02&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=00f5ff&text_color=ffffff&title_color=00f5ff" alt="Top Languages" />
+  <!-- Lenguajes más usados -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-fer02&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=00f5ff&text_color=ffffff&title_color=00f5ff" 
+    alt="Lenguajes más usados por Albert" 
+    width="50%" 
+  />
 
 </div>
-
   
 
 ---
