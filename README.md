@@ -111,3 +111,117 @@
   
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800"> </div>
+
+
+---
+
+  
+
+## 🔥 **Tech Arsenal**
+
+  
+
+<div align="center">
+
+  
+
+### 🛡️ **Security & Infrastructure**
+
+  
+
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+  
+
+### 💻 **Development & Frameworks**
+
+  
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+  
+
+### 🎵 **Creative & Audio**
+
+  
+
+<img src="https://img.shields.io/badge/Ableton_Live-000000?style=for-the-badge&logo=abletonlive&logoColor=white" /> <img src="https://img.shields.io/badge/Max/MSP-525252?style=for-the-badge&logo=maxmsp&logoColor=white" /> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" /> </div>
+
+  
+
+---
+
+  
+
+## 📊 **GitHub Analytics**
+
+  
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Albert-fer02&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=00f5ff&icon_color=00f5ff&text_color=ffffff&title_color=00f5ff" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Albert-fer02&theme=tokyonight&background=0d1117&border=00f5ff&stroke=00f5ff&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-fer02&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=00f5ff&text_color=ffffff&title_color=00f5ff" alt="Top Languages" />
+
+</div>
+
+  
+
+---
+
+  
+
+## 📡 **Connect & Collaborate**
+
+  
+
+<div align="center">
+
+  
+
+### 🌐 **Professional Networks**
+
+  
+
+<a href="https://linkedin.com/in/albertagurto" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://twitter.com/albertagurto" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /> </a> <a href="https://albertagurto.dev" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /> </a> <a href="https://medium.com/@albertagurto" target="_blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /> </a>
+
+<a href="https://youtube.com/@albertagurto" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /> </a>
+
+  
+
+</div>
+
+  
+
+---
+
+  
+  
+
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:0080FF,100:8A2BE2&height=120&section=footer&animation=fadeIn" />
+
+  
+
+### 🚀 **"Code is Poetry, Security is Art, Music is Life"**
+
+  
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%9C%A8;Let's+build+the+future+together+%F0%9F%9A%80;Stay+secure%2C+stay+creative+%F0%9F%94%90%F0%9F%8E%A8" alt="Footer Typing" />
+
+  
+
+---
+
+  
+
+### 🚀 **Powered by Dreamcoder08**
+
+  
+
+_Last updated: July 2025 | Crafted with ❤️, ☕, and lots of 🎵_
+
+  
+
+</div>
