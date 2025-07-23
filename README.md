@@ -1,6 +1,6 @@
 <div align="center">
 
-# 𓂀 𝐃𝐑𝐄𝐀𝐌𝐂𝐎𝐃𝐄𝐑  𓂀
+# 𓂀 𝓓𝓡𝓔𝓐𝓜𝐂𝐎𝐃𝐄𝐑 𓂀
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineer+%F0%9F%9B%A1%EF%B8%8F;Creative+Technologist+%F0%9F%8E%A8;Financial+Innovator+%F0%9F%92%8E;Music+Producer+%F0%9F%8E%B5" alt="Dynamic Typing" /> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:0080FF,100:8A2BE2&height=120&section=header&animation=fadeIn" />
