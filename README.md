@@ -21,78 +21,6 @@
 
 ---
 
-## 🎯 **Dual Domain Expert**
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="120" alt="Cybersecurity" />
-
-### 🛡️ **CYBERSECURITY SPECIALIST**
-
-<img src="https://img.shields.io/badge/OSCP-FF4B4B?style=for-the-badge&logo=kalilinux&logoColor=white" alt="OSCP" />
-<img src="https://img.shields.io/badge/CEH-00A86B?style=for-the-badge&logo=ec-council&logoColor=white" alt="CEH" />
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
-
-**🎯 Core Expertise:**  
-- Red Team Operations & Advanced Persistent Threats  
-- Penetration Testing (Web Apps & Networks)  
-- Security Architecture & Zero Trust Implementation  
-- Incident Response, Threat Hunting & Forensics  
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120" alt="Fintech" />
-
-### 💎 **FINTECH ARCHITECT**
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-
-**💰 Building:**  
-- AccountingsPro • Enterprise SaaS platform  
-- Secure Payment Systems (PCI-DSS compliant)  
-- Financial APIs with Blockchain integration  
-- ML-powered Risk & Fraud Detection  
-
-</td>
-</tr>
-</table>
-
----
-
-## ⚙️ **Technology Stack**
-
-<div align="center">
-
-### 🔒 Security Arsenal  
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />  
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />  
-<img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />  
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />  
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />  
-<img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus" />  
-
-### 💻 Development & Cloud  
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />  
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />  
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />  
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />  
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />  
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />  
-
-### ☁️ Infrastructure & DevSecOps  
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />  
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />  
-<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />  
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />  
-
-</div>
-
----
-
 ## 🚀 **Featured Projects**
 
 <table width="100%" align="center">
@@ -103,9 +31,6 @@
 <img src="https://img.shields.io/badge/SaaS_Platform-00D4FF?style=for-the-badge" alt="SaaS Platform" />
 
 Enterprise financial automation  
-- Real-time analytics & reporting  
-- Multi-currency support  
-- Advanced security compliance  
 
 [🔗 View Project](https://github.com/Albert-fer02/accountingspro)
 
@@ -116,9 +41,6 @@ Enterprise financial automation
 <img src="https://img.shields.io/badge/Security_Tool-FF4B4B?style=for-the-badge" alt="Security Tool" />
 
 Automated penetration testing  
-- Custom vulnerability scanner  
-- Report generation  
-- CI/CD integration  
 
 [🔗 View Project](https://github.com/Albert-fer02/secure-audit)
 
@@ -129,44 +51,12 @@ Automated penetration testing
 <img src="https://img.shields.io/badge/Fintech_API-00A86B?style=for-the-badge" alt="Fintech API" />
 
 Secure payment gateway  
-- PCI-DSS Level 1 compliant  
-- Fraud detection powered by ML  
-- Real-time monitoring  
 
 [🔗 View Project](https://github.com/Albert-fer02/paysecure)
 
 </td>
 </tr>
 </table>
-
----
-
-## 📊 **Expertise Metrics**
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=archlinux,linux,python,javascript,typescript,react,nodejs,postgres,redis,docker,kubernetes,aws,git&theme=dark" alt="Skill Icons" />
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Penetration_Testing-95%25-00D4FF?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Pen Testing" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Financial_Systems-90%25-00A86B?style=for-the-badge&logo=stripe&logoColor=white" alt="Financial Systems" />
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Cloud_Security-88%25-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud Security" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Full_Stack_Dev-92%25-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Dev" />
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
