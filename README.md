@@ -1,6 +1,25 @@
 <div align="center">
 
-# ⚡ Dream CODER 08 ⚡
+## 🎯 **Mission & Vision**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Mission Animation" />
+
+> Creating secure, innovative financial systems that protect assets and drive the future of digital finance.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Albert-fer02&show_icons=true&theme=dark&bg_color=0D1117&border_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&title_color=00D4FF&hide_border=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Albert-fer02&theme=dark&background=0D1117&border=00D4FF&stroke=00D4FF&ring=00D4FF&fire=FF4B4B&currStreakLabel=00D4FF&hide_border=true" width="49%" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Albert-fer02&custom_title=Contribution%20Activity&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF4B4B&area_color=00D4FF&area=true&hide_border=true&theme=react-dark" width="100%" alt="Contribution Activity Graph" />
+
+</div>
+
+---
 
 ## 🎯 **Dual Domain Expert**
 
@@ -122,31 +141,6 @@ Secure payment gateway
 
 ---
 
-## 📈 **GitHub Analytics**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Albert-fer02&show_icons=true&theme=dark&bg_color=0D1117&border_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&title_color=00D4FF&hide_border=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Albert-fer02&theme=dark&background=0D1117&border=00D4FF&stroke=00D4FF&ring=00D4FF&fire=FF4B4B&currStreakLabel=00D4FF&hide_border=true" width="49%" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Albert-fer02&custom_title=Contribution%20Activity&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF4B4B&area_color=00D4FF&area=true&hide_border=true&theme=react-dark" width="100%" alt="Contribution Activity Graph" />
-
-</div>
-
----
-
-## 🎯 **Mission & Vision**
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Mission Animation" />
-
-> Creating secure, innovative financial systems that protect assets and drive the future of digital finance.
-
-</div>
-
----
-
 ## 📊 **Expertise Metrics**
 
 <div align="center">
@@ -208,6 +202,5 @@ Secure payment gateway
 <img src="https://komarev.com/ghpvc/?username=Albert-fer02&label=Profile%20Views&color=00D4FF&style=for-the-badge" />
 
 </div>
-
 
 
