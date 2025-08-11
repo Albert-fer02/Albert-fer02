@@ -89,7 +89,6 @@ Secure payment gateway
 
 **🚀 Dream CODER 08** • *Last updated: August 2025*
 
-<img src="https://komarev.com/ghpvc/?username=Albert-fer02&label=Profile%20Views&color=00D4FF&style=for-the-badge" />
 
 </div>
 
