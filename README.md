@@ -1,94 +1,222 @@
+
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Mission Animation" />
+# 𓂀 𝓓𝓻𝓮𝓪𝓶𝓬𝓸𝓭𝓮𝓻08 𓂀
 
-# 👋 Hola, soy Albert (Hex)
-**Full Stack Developer | Red Team Enthusiast | Fintech Innovator**  
-🚀 Construyendo soluciones digitales seguras, escalables y con diseño atractivo.  
-💡 Apasionado por **ciberseguridad**, **automatización** y **productos SaaS**.
-
-> *"Securing digital assets, one commit at a time."*
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer;Creative+Technologist;Financial+Innovator;Music+Producer" alt="Typing SVG" />
+<div align="center">
 
 ---
 
-## 🔍 **Sobre mí**
-- 💻 Actualmente trabajando en **Accountings Pro**: plataforma contable inteligente.  
-- 🛡️ Aprendiendo **Red Team**, OSINT y herramientas ofensivas.  
-- 🎨 Me encanta crear **interfaces limpias** y **experiencias fluidas**.  
-- 🏗️ Mi meta 2025: lanzar mi **startup SaaS enfocada en seguridad y fintech**.  
+### 🚀 **Digital Architect** | 🛡️ **Security Sentinel** | 🎨 **Code Artist** | 🎵 **Beat Creator**
 
 ---
 
-## 🛠️ **Stack Tecnológico**
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<div align="center">
 
----
+## 🎯 **The Trinity of Innovation**
 
-## 🚀 **Proyectos Destacados**
-<table width="100%" align="center">
+<table>
 <tr>
 <td width="33%" align="center">
 
-### 💼 AccountingsPro  
-<img src="https://img.shields.io/badge/SaaS_Platform-00D4FF?style=for-the-badge" alt="SaaS Platform" />  
-Plataforma contable automatizada.  
-[🔗 Ver Proyecto](https://github.com/Albert-fer02/accountingspro)
+### 🔐 **CYBER GUARDIAN**
+<img src="https://img.shields.io/badge/Red_Team-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+
+**Specialties:**
+- 🎯 Penetration Testing
+- 🔍 Vulnerability Assessment
+- 🛡️ Digital Forensics
+- ⚡ Incident Response
 
 </td>
 <td width="33%" align="center">
 
-### 🛡️ SecureAudit  
-<img src="https://img.shields.io/badge/Security_Tool-FF4B4B?style=for-the-badge" alt="Security Tool" />  
-Pentesting automatizado.  
-[🔗 Ver Proyecto](https://github.com/Albert-fer02/secure-audit)
+### 💎 **FINTECH ARCHITECT**
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+**Building:**
+- 📊 **Accountings Pro** SaaS
+- 💰 Financial Automation
+- 🔢 AI-powered Analytics
+- 🚀 Business Solutions
 
 </td>
 <td width="33%" align="center">
 
-### 🏦 PaySecure  
-<img src="https://img.shields.io/badge/Fintech_API-00A86B?style=for-the-badge" alt="Fintech API" />  
-Gateway de pagos seguro.  
-[🔗 Ver Proyecto](https://github.com/Albert-fer02/paysecure)
+### 🎨 **CREATIVE TECHNOLOGIST**
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+
+**Creating:**
+- 🎵 Music Production
+- 🎨 Generative Art
+- 💫 Interactive Visuals
+- 🎧 Audio Technology
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## 📊 **Mis Estadísticas en GitHub**
-<div align="center">
+## 🎯 **Mission Statement**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Albert-fer02&show_icons=true&theme=dark&bg_color=0D1117&border_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&title_color=00D4FF&hide_border=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Albert-fer02&theme=dark&background=0D1117&border=00D4FF&stroke=00D4FF&ring=00D4FF&fire=FF4B4B&currStreakLabel=00D4FF&hide_border=true" width="49%" alt="GitHub Streak" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=&fontSize=90&animation=twinkling" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Albert-fer02&custom_title=Contribution%20Activity&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF4B4B&area_color=00D4FF&area=true&hide_border=true&theme=react-dark" width="100%" alt="Contribution Activity Graph" />
+### *"Bridging the Digital Divide Between Security, Finance, and Creativity"*
+
+> **My mission** is to create innovative solutions that don't just solve problems, but inspire imagination. I believe in the power of code to secure our digital world, automate financial processes, and create art that moves the soul.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=&fontSize=90&animation=twinkling" />
 
 </div>
 
 ---
 
-## 🌐 **Conecta conmigo**
 <div align="center">
 
+## 📡 **Connect with Me**
+
+### 🌐 **Professional Networks**
+<p>
 <a href="https://linkedin.com/in/albertagurto" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/albertagurto" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://twitter.com/albertagurto" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
 <a href="https://albertagurto.dev" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
 </a>
-<a href="mailto:contact@albertagurto.dev" target="_blank">
+</p>
+
+### 🎵 **Creative Platforms**
+<p>
+<a href="https://soundcloud.com/albertagurto" target="_blank">
+<img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
+</a>
+<a href="https://instagram.com/albertagurto" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://youtube.com/@albertagurto" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+<a href="https://twitch.tv/albertagurto" target="_blank">
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
+</a>
+</p>
+
+### 📧 **Direct Contact**
+<p>
+<a href="mailto:albert.agurto@example.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+<a href="https://calendly.com/albertagurto" target="_blank">
+<img src="https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule" />
+</a>
+<a href="https://wa.me/1234567890" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+</p>
+
+### 🎮 **Gaming & Community**
+<p>
+<a href="https://discord.gg/albertagurto" target="_blank">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="https://steamcommunity.com/id/albertagurto" target="_blank">
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+</a>
+<a href="https://reddit.com/u/albertagurto" target="_blank">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+</a>
+</p>
+
+
+*Last updated: July 2025 | Made with ❤️ and lots of ☕*
+
+</div>
+---
+
+### 🚀 **Digital Architect** | 🛡️ **Security Sentinel** | 🎨 **Code Artist** | 🎵 **Beat Creator**
+
+---
+
+<div align="center">
+
+## 🎯 **The Trinity of Innovation**
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🔐 **CYBER GUARDIAN**
+<img src="https://img.shields.io/badge/Red_Team-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+
+**Specialties:**
+- 🎯 Penetration Testing
+- 🔍 Vulnerability Assessment
+- 🛡️ Digital Forensics
+- ⚡ Incident Response
+
+</td>
+<td width="33%" align="center">
+
+### 💎 **FINTECH ARCHITECT**
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+**Building:**
+- 📊 **Accountings Pro** SaaS
+- 💰 Financial Automation
+- 🔢 AI-powered Analytics
+- 🚀 Business Solutions
+
+</td>
+<td width="33%" align="center">
+
+### 🎨 **CREATIVE TECHNOLOGIST**
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+
+**Creating:**
+- 🎵 Music Production
+- 🎨 Generative Art
+- 💫 Interactive Visuals
+- 🎧 Audio Technology
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎯 **Mission Statement**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=&fontSize=90&animation=twinkling" />
+
+### *"Bridging the Digital Divide Between Security, Finance, and Creativity"*
+
+> **My mission** is to create innovative solutions that don't just solve problems, but inspire imagination. I believe in the power of code to secure our digital world, automate financial processes, and create art that moves the soul.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=&fontSize=90&animation=twinkling" />
 
 </div>
 
@@ -96,8 +224,62 @@ Gateway de pagos seguro.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&animation=twinkling" />
+## 📡 **Connect with Me**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Code+%E2%80%A2+Security+%E2%80%A2+Innovation+%E2%9A%A1;Building+the+future+of+secure+finance+%F0%9F%92%8E;Dream+Coder+08+%E2%9C%A8" />
+### 🌐 **Professional Networks**
+<p>
+<a href="https://linkedin.com/in/albertagurto" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/albertagurto" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://twitter.com/albertagurto" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+<a href="https://albertagurto.dev" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+</a>
+</p>
 
-</div>
+### 🎵 **Creative Platforms**
+<p>
+<a href="https://soundcloud.com/albertagurto" target="_blank">
+<img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
+</a>
+<a href="https://instagram.com/albertagurto" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://youtube.com/@albertagurto" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+<a href="https://twitch.tv/albertagurto" target="_blank">
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
+</a>
+</p>
+
+### 📧 **Direct Contact**
+<p>
+<a href="mailto:albert.agurto@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://calendly.com/albertagurto" target="_blank">
+<img src="https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule" />
+</a>
+<a href="https://wa.me/1234567890" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+</p>
+
+### 🎮 **Gaming & Community**
+<p>
+<a href="https://discord.gg/albertagurto" target="_blank">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="https://steamcommunity.com/id/albertagurto" target="_blank">
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+</a>
+<a href="https://reddit.com/u/albertagurto" target="_blank">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+</a>
+</p>
