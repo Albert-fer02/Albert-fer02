@@ -16,22 +16,22 @@
 
 <hr/>
 
-<div align="center" style="max-width: 900px; margin: 0 auto 24px auto; background: linear-gradient(135deg, #1a2634 60%, #3a4a5a 100%); border-radius: 24px; box-shadow: 0 6px 24px 0 rgba(31, 38, 135, 0.30); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); border: 2px solid #8fd6ff; padding: 24px 0;">
+<div align="center" style="max-width: 900px; margin: 0 auto 24px auto; background: #232e3a; border-radius: 24px; box-shadow: 0 6px 24px 0 rgba(31, 38, 135, 0.30); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); border: 2px solid #8fd6ff; padding: 24px 0;">
   <table style="width: 95%; margin: 0 auto;">
     <tr>
-      <td align="center" style="background: rgba(255,255,255,0.08); border-radius: 16px; box-shadow: 0 4px 16px 0 rgba(90, 120, 200, 0.13); padding: 16px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Albert-fer02&show_icons=true&hide_border=true&bg_color=232e3a&title_color=8fd6ff&text_color=e3eaf2&icon_color=c0c7d1" alt="GitHub Stats" style="border-radius: 12px; box-shadow: 0 2px 8px 0 rgba(120,180,255,0.10);" />
+      <td align="center" style="background: #232e3a; border-radius: 16px; box-shadow: 0 4px 16px 0 rgba(90, 120, 200, 0.13); padding: 16px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Albert-fer02&show_icons=true&hide_border=true&bg_color=232e3a&title_color=8fd6ff&text_color=f7cac9&icon_color=f9e79f" alt="GitHub Stats" style="border-radius: 12px; box-shadow: 0 2px 8px 0 rgba(120,180,255,0.10); border: none;" />
       </td>
-      <td align="center" style="background: rgba(255,255,255,0.08); border-radius: 16px; box-shadow: 0 4px 16px 0 rgba(90, 120, 200, 0.13); padding: 16px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-fer02&layout=compact&hide_border=true&bg_color=232e3a&title_color=8fd6ff&text_color=e3eaf2" alt="Top Languages" style="border-radius: 12px; box-shadow: 0 2px 8px 0 rgba(120,180,255,0.10);" />
+      <td align="center" style="background: #232e3a; border-radius: 16px; box-shadow: 0 4px 16px 0 rgba(90, 120, 200, 0.13); padding: 16px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-fer02&layout=compact&hide_border=true&bg_color=232e3a&title_color=f7cac9&text_color=8fd6ff" alt="Top Languages" style="border-radius: 12px; box-shadow: 0 2px 8px 0 rgba(120,180,255,0.10); border: none;" />
       </td>
-      <td align="center" style="background: rgba(255,255,255,0.08); border-radius: 16px; box-shadow: 0 4px 16px 0 rgba(90, 120, 200, 0.13); padding: 16px;">
-        <img src="https://streak-stats.demolab.com/?user=Albert-fer02&hide_border=true&background=232e3a&stroke=8fd6ff&ring=8fd6ff&fire=8fd6ff&currStreakNum=e3eaf2&sideNums=e3eaf2&currStreakLabel=8fd6ff&sideLabels=8fd6ff&dates=e3eaf2" alt="GitHub Streak" style="border-radius: 12px; box-shadow: 0 2px 8px 0 rgba(120,180,255,0.10);" />
+      <td align="center" style="background: #232e3a; border-radius: 16px; box-shadow: 0 4px 16px 0 rgba(90, 120, 200, 0.13); padding: 16px;">
+        <img src="https://streak-stats.demolab.com/?user=Albert-fer02&hide_border=true&background=232e3a&stroke=f7cac9&ring=8fd6ff&fire=f9e79f&currStreakNum=8fd6ff&sideNums=f7cac9&currStreakLabel=f9e79f&sideLabels=8fd6ff&dates=f7cac9" alt="GitHub Streak" style="border-radius: 12px; box-shadow: 0 2px 8px 0 rgba(120,180,255,0.10); border: none;" />
       </td>
     </tr>
     <tr>
-      <td align="center" colspan="3" style="padding-top: 20px;">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Albert-fer02&custom_title=Contribution%20Activity&bg_color=232e3a&color=8fd6ff&line=8fd6ff&point=ffffff&area_color=8fd6ff&area=true&hide_border=true&theme=react-dark" width="100%" alt="Contribution Activity Graph" style="border-radius: 18px; box-shadow: 0 2px 10px 0 rgba(120,180,255,0.10); border: 1.5px solid #5dade2;" />
+      <td align="center" colspan="3" style="background: #232e3a; border-radius: 16px; padding-top: 20px;">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Albert-fer02&custom_title=Contribution%20Activity&bg_color=232e3a&color=f7cac9&line=8fd6ff&point=f9e79f&area_color=8fd6ff&area=true&hide_border=true&theme=react-dark" width="100%" alt="Contribution Activity Graph" style="border-radius: 18px; box-shadow: 0 2px 10px 0 rgba(120,180,255,0.10); border: 2px solid silver;" />
       </td>
     </tr>
   </table>
