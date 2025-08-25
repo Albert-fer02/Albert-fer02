@@ -17,11 +17,11 @@
 ---
 <div align="center">
 
-<!-- Primera fila: 3 estadísticas principales en una sola fila -->
+<!-- Primera fila: 3 estadísticas principales en una sola fila, todas con las mismas dimensiones -->
 <p align="center" style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Albert-fer02&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=8fd6ff&text_color=FFFFFF&icon_color=d4af37&count_private=true&card_width=300" alt="GitHub Stats" width="300" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-fer02&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=8fd6ff&text_color=FFFFFF&card_width=300" alt="Top Languages" width="300" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=Albert-fer02&hide_border=true&background=1a1a2e&stroke=FFFFFF&ring=8fd6ff&fire=d4af37&currStreakNum=8fd6ff&sideNums=FFFFFF&currStreakLabel=d4af37&sideLabels=8fd6ff&dates=FFFFFF&card_width=300" alt="GitHub Streak" width="300" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Albert-fer02&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=8fd6ff&text_color=FFFFFF&icon_color=d4af37&count_private=true&card_width=350" alt="GitHub Stats" width="350" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-fer02&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=8fd6ff&text_color=FFFFFF&card_width=350" alt="Top Languages" width="350" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=Albert-fer02&hide_border=true&background=1a1a2e&stroke=FFFFFF&ring=8fd6ff&fire=d4af37&currStreakNum=8fd6ff&sideNums=FFFFFF&currStreakLabel=d4af37&sideLabels=8fd6ff&dates=FFFFFF&card_width=350" alt="GitHub Streak" width="350" height="180"/>
 </p>
 
 <!-- Segunda fila: Activity Graph solo -->
