@@ -82,30 +82,6 @@
 
 </div>
 
-
-## 🚀 **Featured Projects**
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🐧 Arch Dream Machine</h3>
-      <p align="center">
-        <a href="https://github.com/Albert-fer02/arch-dream-machine" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Albert-fer02&repo=arch-dream-machine&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF" width="100%" alt="Arch Dream Machine"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎨 DreamFolio</h3>
-      <p align="center">
-        <a href="https://github.com/Albert-fer02/DreamFolio" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Albert-fer02&repo=DreamFolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF" width="100%" alt="DreamFolio"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 📫 **Get In Touch**
