@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4a574,50:b08968,100:8b4513&height=200&section=header&text=%F0%93%82%80%20DreamCoder08%20%F0%93%82%80&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&stroke=ffffff&strokeWidth=1" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87ceeb,50:87cefa,100:b0e0e6&height=200&section=header&text=%F0%93%82%80%20DreamCoder08%20%F0%93%82%80&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&stroke=ffffff&strokeWidth=1" alt="header"/>
 </div>
 
 <p align="center">
@@ -16,17 +16,23 @@
 
 ---
 
+
 <div align="center">
 
-<!-- Primera fila: 3 estadísticas principales -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Albert-fer02&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=8fd6ff&text_color=FFFFFF&icon_color=d4af37&count_private=true&card_width=250)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-fer02&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=8fd6ff&text_color=FFFFFF&card_width=250)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Albert-fer02&hide_border=true&background=1a1a2e&stroke=FFFFFF&ring=8fd6ff&fire=d4af37&currStreakNum=8fd6ff&sideNums=FFFFFF&currStreakLabel=d4af37&sideLabels=8fd6ff&dates=FFFFFF&card_width=250)
+<!-- Primera fila: 3 estadísticas principales en una sola fila -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Albert-fer02&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=8fd6ff&text_color=FFFFFF&icon_color=d4af37&count_private=true&card_width=250" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-fer02&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=8fd6ff&text_color=FFFFFF&card_width=250" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Albert-fer02&hide_border=true&background=1a1a2e&stroke=FFFFFF&ring=8fd6ff&fire=d4af37&currStreakNum=8fd6ff&sideNums=FFFFFF&currStreakLabel=d4af37&sideLabels=8fd6ff&dates=FFFFFF&card_width=250" alt="GitHub Streak" />
+</p>
 
 <!-- Segunda fila: Activity Graph solo -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Albert-fer02&custom_title=Contribution%20Activity&bg_color=1a1a2e&color=FFFFFF&line=8fd6ff&point=d4af37&area_color=8fd6ff&area=true&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Albert-fer02&custom_title=Contribution%20Activity&bg_color=1a1a2e&color=FFFFFF&line=8fd6ff&point=d4af37&area_color=8fd6ff&area=true&hide_border=true" alt="Activity Graph" />
+</p>
 
 </div>
+
 
 <div align="center">
 
