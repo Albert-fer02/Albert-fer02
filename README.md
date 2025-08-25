@@ -1,40 +1,31 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a7c7e7,50:89cff0,100:5dade2&height=200&section=header&text=%F0%93%82%80%20DreamCoder08%20%F0%93%82%80&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4a574,50:b08968,100:8b4513&height=200&section=header&text=%F0%93%82%80%20DreamCoder08%20%F0%93%82%80&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&stroke=ffffff&strokeWidth=1" alt="header"/>
 </div>
 
 <p align="center">
   <a href="https://github.com/dreamcoder08">
-    <img src="https://img.shields.io/badge/🟢%20Available%20for%20Projects-B8E6B8?style=for-the-badge&labelColor=2D4A3E&logo=github" alt="Available for Projects"/>
+    <img src="https://img.shields.io/badge/Available%20for%20Projects-98D8C8?style=for-the-badge&labelColor=F8F9FA&logo=github&logoColor=2D3748" alt="Available for Projects"/>
   </a>
   <a href="https://github.com/dreamcoder08">
-    <img src="https://img.shields.io/badge/🌍%20Remote%20Worldwide-ADD8E6?style=for-the-badge&labelColor=2D4A3E&logo=globe" alt="Remote Worldwide"/>
+    <img src="https://img.shields.io/badge/Remote%20Worldwide-B8E6B8?style=for-the-badge&labelColor=F8F9FA&logo=globe&logoColor=2D3748" alt="Remote Worldwide"/>
   </a>
   <a href="https://github.com/dreamcoder08">
-    <img src="https://img.shields.io/badge/⚡%20Response%20Time%3A%20~2hrs-DDA0DD?style=for-the-badge&labelColor=2D4A3E&logo=clock" alt="Response Time"/>
+    <img src="https://img.shields.io/badge/Response%20Time%3A%20~2hrs-FFB6C1?style=for-the-badge&labelColor=F8F9FA&logo=clock&logoColor=2D3748" alt="Response Time"/>
   </a>
 </p>
 
-<hr/>
+---
 
-<div align="center" style="max-width: 900px; margin: 0 auto 24px auto; background: #232e3a; border-radius: 24px; box-shadow: 0 6px 24px 0 rgba(31, 38, 135, 0.30); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); border: 2px solid #8fd6ff; padding: 24px 0;">
-  <table style="width: 95%; margin: 0 auto;">
-    <tr>
-      <td align="center" style="background: #232e3a; border-radius: 16px; box-shadow: 0 4px 16px 0 rgba(90, 120, 200, 0.13); padding: 16px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Albert-fer02&show_icons=true&hide_border=true&bg_color=232e3a&title_color=8fd6ff&text_color=f7cac9&icon_color=f9e79f" alt="GitHub Stats" style="border-radius: 12px; box-shadow: 0 2px 8px 0 rgba(120,180,255,0.10); border: none;" />
-      </td>
-      <td align="center" style="background: #232e3a; border-radius: 16px; box-shadow: 0 4px 16px 0 rgba(90, 120, 200, 0.13); padding: 16px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-fer02&layout=compact&hide_border=true&bg_color=232e3a&title_color=f7cac9&text_color=8fd6ff" alt="Top Languages" style="border-radius: 12px; box-shadow: 0 2px 8px 0 rgba(120,180,255,0.10); border: none;" />
-      </td>
-      <td align="center" style="background: #232e3a; border-radius: 16px; box-shadow: 0 4px 16px 0 rgba(90, 120, 200, 0.13); padding: 16px;">
-        <img src="https://streak-stats.demolab.com/?user=Albert-fer02&hide_border=true&background=232e3a&stroke=f7cac9&ring=8fd6ff&fire=f9e79f&currStreakNum=8fd6ff&sideNums=f7cac9&currStreakLabel=f9e79f&sideLabels=8fd6ff&dates=f7cac9" alt="GitHub Streak" style="border-radius: 12px; box-shadow: 0 2px 8px 0 rgba(120,180,255,0.10); border: none;" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="3" style="background: #232e3a; border-radius: 16px; padding-top: 20px;">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Albert-fer02&custom_title=Contribution%20Activity&bg_color=232e3a&color=f7cac9&line=8fd6ff&point=f9e79f&area_color=8fd6ff&area=true&hide_border=true&theme=react-dark" width="100%" alt="Contribution Activity Graph" style="border-radius: 18px; box-shadow: 0 2px 10px 0 rgba(120,180,255,0.10); border: 2px solid silver;" />
-      </td>
-    </tr>
-  </table>
+<div align="center">
+
+<!-- Primera fila: 3 estadísticas principales -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Albert-fer02&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=8fd6ff&text_color=FFFFFF&icon_color=d4af37&count_private=true&card_width=250)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-fer02&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=8fd6ff&text_color=FFFFFF&card_width=250)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Albert-fer02&hide_border=true&background=1a1a2e&stroke=FFFFFF&ring=8fd6ff&fire=d4af37&currStreakNum=8fd6ff&sideNums=FFFFFF&currStreakLabel=d4af37&sideLabels=8fd6ff&dates=FFFFFF&card_width=250)
+
+<!-- Segunda fila: Activity Graph solo -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Albert-fer02&custom_title=Contribution%20Activity&bg_color=1a1a2e&color=FFFFFF&line=8fd6ff&point=d4af37&area_color=8fd6ff&area=true&hide_border=true)
+
 </div>
 
 <div align="center">
