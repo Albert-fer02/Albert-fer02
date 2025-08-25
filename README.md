@@ -41,79 +41,83 @@
 
 </div>
 
+
 ## 🛠️ **Tech Stack**
 
 <div align="center">
 
-### **Frontend**
+### **🎨 Frontend**
+
 <p>
-  <img src="https://img.shields.io/badge/React-CAF0F8?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Vue.js-E0F7FA?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/Angular-FFD6E0?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular"/>
-  <img src="https://img.shields.io/badge/TypeScript-BFD7ED?style=for-the-badge&logo=typescript&logoColor=007ACC" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-B8FFF9?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/React-1E293B?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Vue.js-1E293B?style=for-the-badge&logo=vue.js&logoColor=42B883" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Angular-1E293B?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular"/>
+  <img src="https://img.shields.io/badge/TypeScript-1E293B?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-1E293B?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS"/>
 </p>
 
-### **Backend**
+### **⚙️ Backend**
+
 <p>
-  <img src="https://img.shields.io/badge/Node.js-D4F8E8?style=for-the-badge&logo=node.js&logoColor=43853D" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-E3EFFF?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-FFE5B4?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
-  <img src="https://img.shields.io/badge/Go-B8E0FF?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go"/>
-  <img src="https://img.shields.io/badge/PHP-E5D4ED?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Node.js-1E293B?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-1E293B?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
+  <img src="https://img.shields.io/badge/Go-1E293B?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go"/>
+  <img src="https://img.shields.io/badge/PHP-1E293B?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP"/>
 </p>
 
-### **Databases & Cloud**
+### **🗄️ Databases & Cloud**
+
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-D6E6F2?style=for-the-badge&logo=postgresql&logoColor=316192" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-D4F5E9?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-FFD6D6?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis"/>
-  <img src="https://img.shields.io/badge/AWS-FFF5D6?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-D6F6FF?style=for-the-badge&logo=docker&logoColor=2CA5E0" alt="Docker"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=for-the-badge&logo=postgresql&logoColor=336791" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-1E293B?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-1E293B?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis"/>
+  <img src="https://img.shields.io/badge/AWS-1E293B?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-1E293B?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
 </p>
 
-### **Security & DevOps**
+### **🔐 Security & DevOps**
+
 <p>
-  <img src="https://img.shields.io/badge/Kubernetes-D6E6FF?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Terraform-E6D6F2?style=for-the-badge&logo=terraform&logoColor=7B42BC" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Jenkins-FFE0D6?style=for-the-badge&logo=Jenkins&logoColor=D24939" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/GitLab-E6D6F2?style=for-the-badge&logo=gitlab&logoColor=330F63" alt="GitLab"/>
+  <img src="https://img.shields.io/badge/Kubernetes-1E293B?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Terraform-1E293B?style=for-the-badge&logo=terraform&logoColor=7B42BC" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Jenkins-1E293B?style=for-the-badge&logo=jenkins&logoColor=D24939" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/GitLab-1E293B?style=for-the-badge&logo=gitlab&logoColor=FC6D26" alt="GitLab"/>
 </p>
 
 </div>
 
 ---
 
-## 📫 **Get In Touch**
-
-<p align="center">
-  <a href="https://github.com/Albert-fer02/">
-    <img src="https://img.shields.io/badge/GitHub-b8c6db?style=for-the-badge&logo=github&logoColor=23272e" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/dreamcoder08">
-    <img src="https://img.shields.io/badge/LinkedIn-cce2f7?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/dreamcoder08">
-    <img src="https://img.shields.io/badge/Twitter-d6eaff?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter"/>
-  </a>
-  <a href="mailto:contact@dreamcoder08.dev">
-    <img src="https://img.shields.io/badge/Email-f7d6d6?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email"/>
-  </a>
-  <a href="https://dreamcoder08.dev">
-    <img src="https://img.shields.io/badge/Portfolio-ffe0d6?style=for-the-badge&logo=todoist&logoColor=FF5722" alt="Portfolio"/>
-  </a>
-</p>
-
----
-
-## 🎉 **Let's Build Something Amazing Together!**
-
-> *"Code is like humor. When you have to explain it, it's bad."* - Cory House
-
----
+## 📫 **Connect with Me**
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Albert-fer02&style=flat-square&color=00BFFF" alt="Profile Views"/>
-</div>
+  <a href="https://github.com/Albert-fer02">
+    <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/dreamcoder08">
+    <img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/dreamcoder08">
+    <img src="https://img.shields.io/badge/Twitter-1E293B?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter"/>
+  </a>
+  <a href="mailto:contact@dreamcoder08.dev">
+    <img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+  </a>
+  <a href="https://dreamcoder08.dev">
+    <img src="https://img.shields.io/badge/Portfolio-1E293B?style=for-the-badge&logo=todoist&logoColor=FF5722" alt="Portfolio"/>
+  </a>
+</div
+
+
+<div align="center">
+
+### 💡 *"Code is like humor. When you have to explain it, it's bad."*  
+— **Cory House**
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=dreamcoder08&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)
 
 </div>
+
