@@ -1,5 +1,5 @@
 <!-- ⚡ HEADER QUANTUM DUNE – Cinematic Pastel Edition -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,40:111827,80:A8EFFF,100:F5D787&height=230&section=header&text=𓂀%20DREAMCODER08%20𓂀&fontSize=48&fontColor=EAEAEA&animation=twinkling&fontAlignY=35&stroke=A8EFFF&strokeWidth=1.5&desc=Quantum%20Dune%20Protocol&descAlign=50&descAlignY=60&descSize=17" alt="Architec Quantum"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,40:111827,80:A8EFFF,100:F5D787&height=230&section=header&text=𓂀%20DREAMCODER08%20𓂀&fontSize=48&fontColor=EAEAEA&animation=twinkling&fontAlignY=35&stroke=A8EFFF&strokeWidth=1.5&desc=Quantum%20Dune%20Protocol&descAlign=50&descAlignY=60&descSize=17" alt="Quantum Dune Header"/>
 
 ---
 
@@ -62,3 +62,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5D787,50:A8EFFF,100:0A0A0A&height=150&section=footer"/>
 </div>
+
