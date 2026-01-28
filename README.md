@@ -25,16 +25,34 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Albert-fer02&custom_title=Quantum%20Dune%20Activity%20Grid&bg_color=0A0A0A&color=EAEAEA&line=A8EFFF&point=F5D787&area_color=111827&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
 
 ---
+## ⚙️ Technical Stack 
 
-## ⚙️ **Tech Arsenal**
+### 🟢 Runtime & Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=F5D787"/>
+  <img src="https://img.shields.io/badge/Node.js-1A1B27?style=for-the-badge&logo=node.js&logoColor=A8EFFF"/>
+  <img src="https://img.shields.io/badge/Elysia.js-1A1B27?style=for-the-badge&logo=elysia&logoColor=F5D787"/>
+  <img src="https://img.shields.io/badge/Python-1A1B27?style=for-the-badge&logo=python&logoColor=A8EFFF"/>
+</p>
 
+### 🔵 Frontend Systems
 <p align="center">
   <img src="https://img.shields.io/badge/React-1A1B27?style=for-the-badge&logo=react&logoColor=A8EFFF"/>
   <img src="https://img.shields.io/badge/TypeScript-1A1B27?style=for-the-badge&logo=typescript&logoColor=A8EFFF"/>
-  <img src="https://img.shields.io/badge/Node.js-1A1B27?style=for-the-badge&logo=node.js&logoColor=F5D787"/>
-  <img src="https://img.shields.io/badge/Python-1A1B27?style=for-the-badge&logo=python&logoColor=A8EFFF"/>
+  <img src="https://img.shields.io/badge/TanStack-1A1B27?style=for-the-badge&logo=react-query&logoColor=FF4154"/>
+</p>
+
+### 🦀 Systems & Performance
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=F5D787"/>
+  <img src="https://img.shields.io/badge/Linux-1A1B27?style=for-the-badge&logo=linux&logoColor=F5D787"/>
   <img src="https://img.shields.io/badge/Docker-1A1B27?style=for-the-badge&logo=docker&logoColor=A8EFFF"/>
-  <img src="https://img.shields.io/badge/AWS-1A1B27?style=for-the-badge&logo=amazon-aws&logoColor=F5D787"/>
+</p>
+
+### ☁️ Cloud & Infrastructure
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud--Native-1A1B27?style=for-the-badge&logo=icloud&logoColor=F5D787"/>
+  <img src="https://img.shields.io/badge/Containers-1A1B27?style=for-the-badge&logo=kubernetes&logoColor=A8EFFF"/>
 </p>
 
 ---
@@ -51,7 +69,6 @@
 ---
 
 ### ✨ _"Light becomes form. Form becomes code."_  
-— **Quantum Architect DreamCoder08**
 
 ---
 
