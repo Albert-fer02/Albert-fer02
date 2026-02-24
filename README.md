@@ -1,44 +1,64 @@
-# | Systems Architect & Long-Horizon Builder
+# Dreamcoder | Systems Architect
 
-Systems thinker enfocado en la creación de infraestructuras autónomas de alto impacto. 
-Mi metodología se basa en el razonamiento de **primeros principios**, el **pensamiento sistémico** y el **rigor arquitectónico**.
-
----
-
-## 🏗️ Core Systems Portfolio (2026)
-
-### 🏛️ 1. ARKONYX | Autonomous Fiscal OS
-**El Cerebro Fiscal.** Sistema autónomo para el mercado SUNAT 2026.
-* **Core:** Rust (parsing UBL 150x más rápido), Bun, ElysiaJS.
-* **AI:** Agent Swarms con Mastra y Claude 4.6 para auditoría predictiva.
-
-### 🛡️ 2. Electo Suite | Critical Data Integrity
-**La Integridad.** Validador concurrente de actas electorales (ONPE).
-* **Tech:** Go (Worker Pools), Concurrencia masiva, API REST.
-* **Impacto:** Detección de patrones de fatiga y errores sistemáticos en tiempo real.
-
-### 🌿 3. EdgeTraz Agro | Distributed Edge Computing
-**La Infraestructura Física.** Trazabilidad inmutable para agroexportación en Piura.
-* **Tech:** Rust (Tokio/Embassy), LoRaWAN, TinyML en el Edge.
-* **Propósito:** Operación offline-first y sincronización idempotente en campo.
-
-### 🔮 4. Archetype Oracle | AI & Cognitive Analysis
-**El Intérprete.** Plataforma de análisis psicológico basado en Jung.
-* **Tech:** React, Bun, Gemini 2.0, Offline-first (IndexedDB).
-* **Rigor:** +300 tests (Vitest/Playwright) asegurando lógica de negocio crítica.
-
-### 🚀 5. Project Aurora | Systems Observability
-**El Control.** Dashboard de alto rendimiento para gestión y analítica.
-* **Tech:** React 19, TypeScript, D3.js, Zustand.
-* **Foco:** Visualización de métricas complejas y optimización de renderizado.
+**Building long-horizon autonomous infrastructures.** Focused on high-performance computing, data integrity, and agentic orchestration.
 
 ---
 
-## 🛠️ Technical Arsenal
-* **Languages:** Rust, Go, TypeScript, Python, SQL.
-* **Environments:** Arch Linux (Custom Dotfiles), Docker, Edge IoT.
-* **Principles:** Modular Architecture, Data Integrity, Autonomous Execution.
+## 🏛️ System Abstraction Layers
+
+Mi trabajo se despliega en cuatro niveles de complejidad sistémica, cada uno optimizado para latencia cero y resiliencia de datos.
+
+### 0x01 | Autonomous Fiscal Infrastructure (The Core)
+**[ARKONYX](https://github.com/Albert-fer02/arkonyx)** — A fiscal OS designed for the 2026 SUNAT landscape.
+- **Architectural Pivot:** Offloading heavy XML parsing to **Rust (FFI)**, bypasssing Node.js runtime bottlenecks.
+- **Intelligence:** Implementation of autonomous agent swarms (Mastra) for real-time forensic auditing.
+- **Impact:** 150x latency reduction in document validation cycles.
+
+
+
+### 0x02 | High-Concurrency & Data Rigor
+**[Electo Suite](https://github.com/Albert-fer02/elect-validate)** — National-scale electoral validation system.
+- **Pattern:** Distributed **Worker Pools** in Go to handle massive, bursty data streams.
+- **Heuristics:** Real-time detection of systematic errors and operator fatigue patterns.
+- **Integrity:** Ensuring 100% data consistency across concurrent validation pipelines.
+
+### 0x03 | Edge Computing & IoT Resilience
+**[EdgeTraz Agro](#)** — Immutable traceability for industrial agriculture.
+- **The Edge:** Rust-based engine (Tokio/Embassy) for low-power IoT gateway processing.
+- **Connectivity:** Offline-first synchronization with idempotent retry protocols for zero-signal environments.
+- **Compliance:** Full audit trail from field to port via distributed ledgers.
+
+### 0x04 | AI-Human Interface & System UX
+**[Archetype Oracle](https://github.com/Albert-fer02/archetype-)** | **[Project Aurora](#)**
+- **Reliability:** +300 automated tests (Vitest/Playwright) ensuring zero-regressions in complex state logic.
+- **Observability:** High-performance dashboards using D3.js for real-time system monitoring.
 
 ---
 
-**"Build systems that compound. Execute with clarity. Deliver real-world output."**
+## 🛠️ Technical Stack (The Tools of the Trade)
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Low-Level / Performance** | Rust (FFI, Tokio, Embassy), Go (Channels/Goroutines), C++ |
+| **Backend / Intelligence** | Bun (Elysia), Claude 3.5/4.6, Mastra, Python (Data Engine) |
+| **Persistence / Infra** | PostgreSQL (TimescaleDB), Redis, MQTT, Docker, Arch Linux |
+| **Frontend / Viz** | React 19 (TanStack), TypeScript, D3.js, Zustand |
+
+---
+
+## 📈 Engineering Principles
+
+- **Zero-Trust Data:** Every input is a failure point until validated at the core.
+- **Performance is a Feature:** Latency is not an afterthought; it's a primary constraint of the architecture.
+- **Modular Autonomy:** Systems should be composed of independent, highly-specialized modules that communicate via robust APIs.
+
+---
+
+## 🚀 Connect
+
+- **Location:** Piura, Perú 🇵🇪
+- **Current Focus:** Scaling ARKONYX and refining Edge AI resilience.
+- **Contact:** [albert.fer.dev@email.com](mailto:albert.fer.dev@email.com)
+
+---
+*"Build systems that compound. Execute with clarity. Deliver real-world output."*
