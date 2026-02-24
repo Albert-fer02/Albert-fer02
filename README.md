@@ -1,77 +1,30 @@
-<!-- ⚡ HEADER QUANTUM DUNE – Cinematic Pastel Edition -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,40:111827,80:A8EFFF,100:F5D787&height=230&section=header&text=𓂀%20DREAMCODER08%20𓂀&fontSize=48&fontColor=EAEAEA&animation=twinkling&fontAlignY=35&stroke=C0C0C0&strokeWidth=1.5" alt="DREAMCODER08 Header"/>
+# | Systems Architect & Long-Horizon Builder
+
+Systems thinker focused on creating high-impact, autonomous infrastructures. 
+Currently leading **ARKONYX**, a system-level initiative designed for long-term scalability and operational efficiency.
 
 ---
 
-<div align="center">
----
+### 🏛️ Core Vision: ARKONYX
+ARKONYX is not just a project; it's a commitment to building systems that compound value over time. 
+- **Focus:** High-efficiency automation, agentic workflows, and robust back-end architectures.
+- **Objective:** Bridge the gap between technical complexity and real-world economic output.
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Albert-fer02&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=A8EFFF&text_color=EAEAEA&icon_color=F5D787&count_private=true&card_width=340" alt="GitHub Stats" height="160"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-fer02&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=A8EFFF&text_color=EAEAEA&card_width=340" alt="Top Languages" height="160"/>
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=Albert-fer02&hide_border=true&background=0A0A0A&stroke=EAEAEA&ring=A8EFFF&fire=F5D787&currStreakNum=A8EFFF&sideNums=EAEAEA&currStreakLabel=F5D787&sideLabels=A8EFFF&dates=EAEAEA" alt="GitHub Streak" height="160"/>
-    </td>
-  </tr>
-</table>
+### 🛠️ Systems & Specializations
+I treat code as an asset, not just a script. My focus lies in:
+* **System Integration:** Connecting disparate APIs into cohesive, error-tolerant workflows.
+* **Process Automation:** Transforming manual overhead into automated, measurable results.
+* **Architecture:** Designing for the "Long Horizon"—prioritizing maintainability and modularity.
 
----
+### 📊 Impact & Metrics (The 'Why')
+- **Efficiency:** Designing solutions that reduce manual intervention by >80%.
+- **Reliability:** Implementation of robust logging, error handling, and system monitoring.
+- **Scale:** Building with a "First Principles" approach to ensure systems don't break under growth.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Albert-fer02&custom_title=Quantum%20Dune%20Activity%20Grid&bg_color=0A0A0A&color=EAEAEA&line=A8EFFF&point=F5D787&area_color=111827&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
-
----
-## ⚙️ Technical Stack 
-
-### 🟢 Runtime & Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=F5D787"/>
-  <img src="https://img.shields.io/badge/Node.js-1A1B27?style=for-the-badge&logo=node.js&logoColor=A8EFFF"/>
-  <img src="https://img.shields.io/badge/Elysia.js-1A1B27?style=for-the-badge&logo=elysia&logoColor=F5D787"/>
-  <img src="https://img.shields.io/badge/Python-1A1B27?style=for-the-badge&logo=python&logoColor=A8EFFF"/>
-</p>
-
-### 🔵 Frontend Systems
-<p align="center">
-  <img src="https://img.shields.io/badge/React-1A1B27?style=for-the-badge&logo=react&logoColor=A8EFFF"/>
-  <img src="https://img.shields.io/badge/TypeScript-1A1B27?style=for-the-badge&logo=typescript&logoColor=A8EFFF"/>
-  <img src="https://img.shields.io/badge/TanStack-1A1B27?style=for-the-badge&logo=react-query&logoColor=FF4154"/>
-</p>
-
-### 🦀 Systems & Performance
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=F5D787"/>
-  <img src="https://img.shields.io/badge/Linux-1A1B27?style=for-the-badge&logo=linux&logoColor=F5D787"/>
-  <img src="https://img.shields.io/badge/Docker-1A1B27?style=for-the-badge&logo=docker&logoColor=A8EFFF"/>
-</p>
-
-### ☁️ Cloud & Infrastructure
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud--Native-1A1B27?style=for-the-badge&logo=icloud&logoColor=F5D787"/>
-  <img src="https://img.shields.io/badge/Containers-1A1B27?style=for-the-badge&logo=kubernetes&logoColor=A8EFFF"/>
-</p>
+### 🔧 Tech Stack as a Toolset
+* **Languages:** Python (Advanced), [Agrega otros]
+* **Orchestration:** [Docker/AWS/etc]
+* **Frameworks:** [FastAPI/Django/Pandas/etc]
 
 ---
-
-## 🌌 **Connect with Me**
-
-<p align="center">
-  <a href="https://github.com/Albert-fer02"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=EAEAEA"/></a>
-  <a href="https://linkedin.com/in/dreamcoder08"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=A8EFFF"/></a>
-  <a href="https://twitter.com/dreamcoder08"><img src="https://img.shields.io/badge/Twitter-111827?style=for-the-badge&logo=twitter&logoColor=F5D787"/></a>
-  <a href="mailto:contact@dreamcoder08.dev"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EAEAEA"/></a>
-</p>
-
----
-
-### ✨ _"Light becomes form. Form becomes code."_  
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5D787,50:A8EFFF,100:0A0A0A&height=150&section=footer"/>
-</div>
-
+"Clarity, truth, and real-world output are the primary metrics of progress."
