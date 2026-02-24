@@ -1,30 +1,44 @@
 # | Systems Architect & Long-Horizon Builder
 
-Systems thinker focused on creating high-impact, autonomous infrastructures. 
-Currently leading **ARKONYX**, a system-level initiative designed for long-term scalability and operational efficiency.
+Systems thinker enfocado en la creación de infraestructuras autónomas de alto impacto. 
+Mi metodología se basa en el razonamiento de **primeros principios**, el **pensamiento sistémico** y el **rigor arquitectónico**.
 
 ---
 
-### 🏛️ Core Vision: ARKONYX
-ARKONYX is not just a project; it's a commitment to building systems that compound value over time. 
-- **Focus:** High-efficiency automation, agentic workflows, and robust back-end architectures.
-- **Objective:** Bridge the gap between technical complexity and real-world economic output.
+## 🏗️ Core Systems Portfolio (2026)
 
-### 🛠️ Systems & Specializations
-I treat code as an asset, not just a script. My focus lies in:
-* **System Integration:** Connecting disparate APIs into cohesive, error-tolerant workflows.
-* **Process Automation:** Transforming manual overhead into automated, measurable results.
-* **Architecture:** Designing for the "Long Horizon"—prioritizing maintainability and modularity.
+### 🏛️ 1. ARKONYX | Autonomous Fiscal OS
+**El Cerebro Fiscal.** Sistema autónomo para el mercado SUNAT 2026.
+* **Core:** Rust (parsing UBL 150x más rápido), Bun, ElysiaJS.
+* **AI:** Agent Swarms con Mastra y Claude 4.6 para auditoría predictiva.
 
-### 📊 Impact & Metrics (The 'Why')
-- **Efficiency:** Designing solutions that reduce manual intervention by >80%.
-- **Reliability:** Implementation of robust logging, error handling, and system monitoring.
-- **Scale:** Building with a "First Principles" approach to ensure systems don't break under growth.
+### 🛡️ 2. Electo Suite | Critical Data Integrity
+**La Integridad.** Validador concurrente de actas electorales (ONPE).
+* **Tech:** Go (Worker Pools), Concurrencia masiva, API REST.
+* **Impacto:** Detección de patrones de fatiga y errores sistemáticos en tiempo real.
 
-### 🔧 Tech Stack as a Toolset
-* **Languages:** Python (Advanced), [Agrega otros]
-* **Orchestration:** [Docker/AWS/etc]
-* **Frameworks:** [FastAPI/Django/Pandas/etc]
+### 🌿 3. EdgeTraz Agro | Distributed Edge Computing
+**La Infraestructura Física.** Trazabilidad inmutable para agroexportación en Piura.
+* **Tech:** Rust (Tokio/Embassy), LoRaWAN, TinyML en el Edge.
+* **Propósito:** Operación offline-first y sincronización idempotente en campo.
+
+### 🔮 4. Archetype Oracle | AI & Cognitive Analysis
+**El Intérprete.** Plataforma de análisis psicológico basado en Jung.
+* **Tech:** React, Bun, Gemini 2.0, Offline-first (IndexedDB).
+* **Rigor:** +300 tests (Vitest/Playwright) asegurando lógica de negocio crítica.
+
+### 🚀 5. Project Aurora | Systems Observability
+**El Control.** Dashboard de alto rendimiento para gestión y analítica.
+* **Tech:** React 19, TypeScript, D3.js, Zustand.
+* **Foco:** Visualización de métricas complejas y optimización de renderizado.
 
 ---
-"Clarity, truth, and real-world output are the primary metrics of progress."
+
+## 🛠️ Technical Arsenal
+* **Languages:** Rust, Go, TypeScript, Python, SQL.
+* **Environments:** Arch Linux (Custom Dotfiles), Docker, Edge IoT.
+* **Principles:** Modular Architecture, Data Integrity, Autonomous Execution.
+
+---
+
+**"Build systems that compound. Execute with clarity. Deliver real-world output."**
