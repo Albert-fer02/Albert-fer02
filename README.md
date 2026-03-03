@@ -1,6 +1,6 @@
 # Dreamcoder | Systems Architect
 
-Designing systems that compound over time.  
+Designing systems that compound over time.
 Focused on high-integrity infrastructure, autonomous execution, and long-horizon architectures.
 
 ---
@@ -18,21 +18,30 @@ A fiscal operating system engineered for the evolving SUNAT landscape.
 
 ---
 
-### Electo Suite — High-Concurrency Validation
-Distributed validation infrastructure for bursty, large-scale data streams.
-
-- Go worker pools and deterministic pipelines
-- Real-time anomaly detection under concurrency stress
-- Strong consistency guarantees across parallel flows
-
----
-
 ### EdgeTraz Agro — Edge & IoT Resilience
 Offline-first traceability infrastructure for industrial environments.
 
 - Rust async runtimes for constrained edge hardware
 - Idempotent synchronization in zero-connectivity zones
 - End-to-end auditability from field to port
+
+---
+
+### Digital_Public_peru — Civic Digital Infrastructure
+Open infrastructure platform for Peruvian governmental environments.
+
+- Architecture built for data integrity and public transparency
+- Resilient under adversarial conditions and high concurrency
+- Integration with governmental ecosystems and distributed validation
+
+---
+
+### Dreamcoder_dots — Custom Development Environment
+Advanced system configuration optimized for high-load systems development.
+
+- GLSL shaders for visual effects and immersive development interfaces
+- Declarative system automation pipelines and configuration management
+- Environment tuned for productivity in critical systems architecture
 
 ---
 
@@ -47,7 +56,7 @@ Offline-first traceability infrastructure for industrial environments.
 ## 🛠 Technical Domains
 
 | Layer | Stack |
-|------|------|
+|-------|-------|
 | Performance | Rust, Go, low-level concurrency |
 | Backend | Bun/Elysia, Python data engines |
 | Infra | PostgreSQL, Redis, Docker, Arch Linux |
@@ -63,7 +72,7 @@ All major systems are undergoing final hardening before public release.
 ---
 
 ## 🌐 Connect
-Perú 🇵🇪  
+Perú 🇵🇪
 Building quietly. Releasing deliberately.
 
 ---
