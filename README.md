@@ -7,30 +7,6 @@ Software architect from Peru.
 Founder of ARKONYX.
 Building audit-first systems for high-friction markets.
 ```
-
-I work where software meets pressure: operations, compliance, AI-assisted workflows, infrastructure thinking, and interfaces that make complexity legible.
-
-No decorative tech.
-No empty automation.
-No noise without leverage.
-
----
-
-## CURRENT THESIS
-
-Most software promises speed.
-I care about control.
-
-```txt
-less magic        more evidence
-less dashboards   more decision systems
-less noise        more leverage
-```
-
----
-
-## MAIN SYSTEM
-
 ### ARKONYX
 
 Audit-first infrastructure for fiscal and operational intelligence.
@@ -52,9 +28,6 @@ Declare with evidence, not faith.
 | [**Digital_Public_peru**](https://github.com/Dreamcoder08/Digital_Public_peru) | audit-first civic software prototype       |
 | [**EdgeTraz-Agro**](https://github.com/Dreamcoder08/EdgeTraz-Agro)             | traceability and edge-resilient operations |
 | [**CleanSweep**](https://github.com/Dreamcoder08/CleanSweep)                   | Rust-based development environment tooling |
-
-Public repositories are the signal layer.
-The deeper architecture stays where it belongs.
 
 ---
 
@@ -80,17 +53,6 @@ complexity compressed, not hidden
 Good systems should feel calm under pressure.
 
 ---
-
-## AESTHETIC RUNTIME
-
-```txt
-cocoa dark terminal
-warm contrast
-high signal density
-enterprise clarity
-cinematic restraint
-zero decorative noise
-```
 
 Software should feel sharp, calm, and inevitable.
 
