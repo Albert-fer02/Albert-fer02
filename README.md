@@ -1,15 +1,18 @@
-## HI ?
+## HI
 
 ```txt
 Software architect from Peru.
 Founder of ARKONYX.
 Building audit-first systems for high-friction markets.
 ```
+
+---
+
 ## PUBLIC WORKBENCH
 
 | System                                                                         | Signal                                     |
 | ------------------------------------------------------------------------------ | ------------------------------------------ |
-| [**ARKONYX**](https://github.com/Dreamcoder08/ARKONYX)                         |  Fiscal operational intelligence.          |
+| [**ARKONYX**](https://github.com/Dreamcoder08/ARKONYX)                         | fiscal operational intelligence            |
 | [**Dreamcoder_dots**](https://github.com/Dreamcoder08/Dreamcoder_dots)         | terminal-first operating environment       |
 | [**DreamFolio**](https://github.com/Dreamcoder08/DreamFolio)                   | personal interface and product identity    |
 | [**Digital_Public_peru**](https://github.com/Dreamcoder08/Digital_Public_peru) | audit-first civic software prototype       |
