@@ -1,20 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:19120c,45:402c18,100:fbb974&text=DREAMCODER08&fontColor=eee0d5&fontSize=42&fontAlignY=38&desc=Software%20Architect%20%C2%B7%20Founder%20%C2%B7%20Systems%20for%20Trust&descSize=13&descAlignY=60" alt="DreamCoder08 banner" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Peru%20%E2%86%92%20LATAM-19120c?style=for-the-badge&labelColor=19120c&color=9ec49f" alt="Peru to LATAM" />
-  <img src="https://img.shields.io/badge/ARKONYX-19120c?style=for-the-badge&labelColor=19120c&color=fbb974" alt="ARKONYX" />
-  <img src="https://img.shields.io/badge/Audit--First-19120c?style=for-the-badge&labelColor=19120c&color=e1c1a3" alt="Audit First" />
-</p>
 
-<h3 align="center">
-  I build software for domains where trust cannot be improvised.
-</h3>
-
----
-
-## SIGNAL
+## HI ?
 
 ```txt
 Software architect from Peru.
