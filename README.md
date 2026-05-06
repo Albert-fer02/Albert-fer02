@@ -39,25 +39,6 @@ Declare with evidence, not faith.
 
 ---
 
-## ENGINEERING TASTE
-
-```txt
-deterministic core
-assisted intelligence
-interfaces that reveal state
-security as product quality
-auditability as architecture
-complexity compressed, not hidden
-```
-
-Good systems should feel calm under pressure.
-
----
-
-Software should feel sharp, calm, and inevitable.
-
----
-
 <details>
   <summary><strong>GitHub signal</strong></summary>
 
