@@ -1,27 +1,27 @@
 <h1 align="center">Dreamcoder08</h1>
-<h3 align="center">Full-Stack AI Product Engineer</h3>
-<p align="center"><em>B2B SaaS · Developer Tools · Agentic Systems</em></p>
+<h3 align="center">Founder &amp; AI Systems Product Engineer</h3>
+<p align="center"><em>Secure · Auditable · Human-Controlled Agentic Systems</em></p>
 
 <p align="center">
-  <em>Building AI-native operational software for LATAM.</em>
+  <em>Building verifiable agentic systems for high-stakes operations.</em>
 </p>
 
 ---
 
 ## About
 
-I build B2B products where AI assists, the system validates, professionals retain control, and evidence remains inspectable.
+I build secure, auditable, human-controlled agentic systems for high-stakes operations.
 
-I am the founder of [**ARKELYTHEX**](https://github.com/arkelythex), an engineering venture focused on fiscal-operational software, developer tools, and agentic systems for Latin America. Its flagship project, **Drenyra**, explores how AI-assisted fiscal workflows can remain traceable, reviewable, and under human control. My work combines TypeScript, React, automation, and human-controlled AI to turn complex operational workflows into usable products.
+I am the founder of [**ARKELYTHEX**](https://github.com/arkelythex), an engineering venture focused on fiscal-operational software, developer tools, and verifiable automation for Latin America. Its flagship project, **Drenyra**, explores how AI-assisted fiscal workflows can remain traceable, reviewable, and under human control.
 
-> **AI assists. The system validates. Professionals review. Evidence remains.**
+> **AI assists. The system validates. Professionals control. Evidence remains.**
 
 ## Focus
 
 | Area | What I build |
 |---|---|
-| **AI-native operational software** | Systems that make complex workflows explainable and reviewable. |
-| **B2B SaaS** | Product-focused applications for real operational problems. |
+| **Evidence-first agentic systems** | Agentic workflows designed around explicit state, validation, and inspectable evidence. |
+| **High-stakes operations** | Software for operational domains where control and recovery matter. |
 | **Developer tools** | Tools and environments that improve engineering workflows. |
 | **Secure automation** | Automation designed around isolation, traceability, and human approval. |
 
@@ -38,9 +38,10 @@ I am the founder of [**ARKELYTHEX**](https://github.com/arkelythex), an engineer
 ## Engineering principles
 
 - Build products around real operational constraints, not demos.
-- Prefer explicit state, validation, and evidence over implicit behavior.
-- Use AI to assist people, never to remove accountable human control.
-- Treat security and traceability as product capabilities.
+- Make authority, state transitions, and validation explicit.
+- Use AI within bounded capabilities, never to remove accountable human control.
+- Preserve evidence so important results can be inspected, audited, and reproduced.
+- Treat security, isolation, and recovery as invariants.
 
 ---
 
